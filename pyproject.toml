@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "Nornir_project"
+authors = ["uian"]
+version = "0.1.0"
+description = "用于开发nornir应用之用"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nornir = "^3.0"
+nornir-napalm = "^0.3.0"
+nornir-scrapli = "^2023.1.30.post1"
+cookiecutter = "^2.1.1"
+nornir-netmiko = "^0.2.0"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.21.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

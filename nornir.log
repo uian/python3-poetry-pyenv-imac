@@ -1,0 +1,575 @@
+2023-02-26 03:12:16,459 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:12:16,462 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:13:40,675 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:13:40,681 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:16:14,006 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:16:14,011 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:17:27,558 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:17:27,562 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:18:34,460 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:18:34,464 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:18:55,993 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:18:55,996 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:20:50,573 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:20:50,577 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:21:31,177 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:21:31,180 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:53:03,213 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:53:03,217 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:53:09,261 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:53:09,264 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:53:59,028 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:53:59,032 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:55:54,223 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:55:54,227 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:56:38,268 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:56:38,272 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:57:44,451 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:57:44,462 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 04:22:36,403 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 04:22:36,407 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 04:23:29,427 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 04:23:29,431 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 05:34:57,932 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 05:34:57,936 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 05:38:21,539 -  nornir.core -     INFO -        run() - Running task 'send_configs' with args {'configs': ['interface range GigabitEthernet0/0/1-5', 'lacp mode lacp-static', 'ethernet eth-trunk eth-trunk1']} on 1 hosts
+2023-02-26 05:38:21,543 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'send_configs' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_scrapli/tasks/core/send_configs.py", line 58, in send_configs
+    scrapli_conn = task.host.get_connection("scrapli", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_scrapli/connection.py", line 88, in open
+    raise NornirScrapliInvalidPlatform(
+nornir_scrapli.exceptions.NornirScrapliInvalidPlatform: 'platform' not provided in inventory for host `10.131.129.6`
+
+2023-02-26 05:38:40,931 -  nornir.core -     INFO -        run() - Running task 'send_configs' with args {'configs': ['interface range GigabitEthernet0/0/1-5', 'lacp mode lacp-static', 'ethernet eth-trunk eth-trunk1']} on 1 hosts
+2023-02-26 05:38:40,937 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'send_configs' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_scrapli/tasks/core/send_configs.py", line 58, in send_configs
+    scrapli_conn = task.host.get_connection("scrapli", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_scrapli/connection.py", line 88, in open
+    raise NornirScrapliInvalidPlatform(
+nornir_scrapli.exceptions.NornirScrapliInvalidPlatform: 'platform' not provided in inventory for host `10.131.129.6`
+
+2023-02-26 05:53:55,416 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 05:53:55,420 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:02:55,953 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:02:55,957 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:13:09,135 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:13:09,141 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:14:01,982 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:14:01,987 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:32:46,027 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:32:46,028 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:34:00,677 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:34:00,680 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:34:16,763 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:34:16,768 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 06:37:26,077 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 06:37:26,080 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:18:59,515 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:18:59,518 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:19:10,806 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:19:10,807 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:24:17,382 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:24:17,383 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:26:37,900 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:26:37,901 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:27:07,369 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:27:07,369 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:33:12,029 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:33:12,029 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:33:23,253 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:33:23,254 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:35:27,519 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:35:27,519 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 07:35:59,145 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 07:35:59,148 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 10:34:03,326 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 10:34:03,330 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 10:34:43,733 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 10:34:43,734 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", netmiko_protocol="telnet", port=2000)
+TypeError: get_connection() got an unexpected keyword argument 'netmiko_protocol'
+
+2023-02-26 10:35:19,167 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 10:35:22,302 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", netmiko_protocol="telnet", port=2000)
+TypeError: get_connection() got an unexpected keyword argument 'netmiko_protocol'
+
+2023-02-26 10:35:50,013 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 10:36:03,880 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", netmiko_protocol="telnet", port=2000)
+TypeError: get_connection() got an unexpected keyword argument 'netmiko_protocol'
+
+2023-02-26 10:36:42,741 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 10:36:42,742 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", netmiko_protocol="telnet", port=2000)
+TypeError: get_connection() got an unexpected keyword argument 'netmiko_protocol'
+
+2023-02-26 11:35:26,962 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 11:35:26,963 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = conn = task.host.get_connection("netmiko")
+TypeError: get_connection() missing 1 required positional argument: 'configuration'
+
+2023-02-26 11:38:17,722 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 11:38:17,722 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() missing 1 required positional argument: 'configuration'
+
+2023-02-26 11:49:14,942 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 11:49:14,943 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() missing 1 required positional argument: 'configuration'
+
+2023-02-26 11:50:16,874 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 11:50:16,875 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", port=2000)
+TypeError: get_connection() got an unexpected keyword argument 'port'
+
+2023-02-26 11:50:34,135 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 11:50:34,136 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko")
+TypeError: get_connection() missing 1 required positional argument: 'configuration'
+
+2023-02-26 11:51:11,100 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 11:51:16,125 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/connections/netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/ssh_dispatcher.py", line 365, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 439, in __init__
+    self._open()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 444, in _open
+    self.establish_connection()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 1029, in establish_connection
+    self.remote_conn = telnetlib.Telnet(
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/telnetlib.py", line 218, in __init__
+    self.open(host, port, timeout)
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/telnetlib.py", line 235, in open
+    self.sock = socket.create_connection((host, port), timeout)
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2023-02-26 11:52:08,968 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 11:52:19,003 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/connections/netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/ssh_dispatcher.py", line 365, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 439, in __init__
+    self._open()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 444, in _open
+    self.establish_connection()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 1034, in establish_connection
+    self.telnet_login()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/huawei/huawei.py", line 142, in telnet_login
+    output = self.read_until_pattern(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 672, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: '(?:user:|username|login|user name)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2023-02-26 11:59:55,758 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 12:00:05,782 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/connections/netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/ssh_dispatcher.py", line 365, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 439, in __init__
+    self._open()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 444, in _open
+    self.establish_connection()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 1034, in establish_connection
+    self.telnet_login()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/huawei/huawei.py", line 142, in telnet_login
+    output = self.read_until_pattern(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 672, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: '(?:user:|username|login|user name)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2023-02-26 12:00:25,584 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'configuration': 'router'} on 1 hosts
+2023-02-26 12:00:35,603 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/routerconfig.py", line 15, in configure_router
+    conn = task.host.get_connection("netmiko", task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/connections/netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/ssh_dispatcher.py", line 365, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 439, in __init__
+    self._open()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 444, in _open
+    self.establish_connection()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 1034, in establish_connection
+    self.telnet_login()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/huawei/huawei.py", line 142, in telnet_login
+    output = self.read_until_pattern(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 672, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: '(?:user:|username|login|user name)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2023-02-26 12:38:41,399 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 12:38:41,400 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/napalmRouterCon.py", line 10, in configure_router
+    with task.host.get_connection(driver, optional_args=optional_args) as conn:
+TypeError: get_connection() got an unexpected keyword argument 'optional_args'
+
+2023-02-26 12:44:24,466 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {} on 1 hosts
+2023-02-26 12:44:24,467 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/napalmRouterCon.py", line 10, in configure_router
+    with task.host.get_connection(driver) as conn:
+TypeError: get_connection() missing 1 required positional argument: 'configuration'
+
+2023-03-04 11:11:20,794 -  nornir.core -     INFO -        run() - Running task 'telnet_task' with args {'loginname': 'myloginname'} on 1 hosts
+2023-03-04 11:11:25,809 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 26, in netmiko_send_command
+    net_connect = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 494, in get_connection
+    self.open_connection(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/inventory.py", line 546, in open_connection
+    conn_obj.open(
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir_netmiko/connections/netmiko.py", line 59, in open
+    connection = ConnectHandler(**parameters)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/ssh_dispatcher.py", line 365, in ConnectHandler
+    return ConnectionClass(*args, **kwargs)
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 439, in __init__
+    self._open()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 444, in _open
+    self.establish_connection()
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/netmiko/base_connection.py", line 1029, in establish_connection
+    self.remote_conn = telnetlib.Telnet(
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/telnetlib.py", line 218, in __init__
+    self.open(host, port, timeout)
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/telnetlib.py", line 235, in open
+    self.sock = socket.create_connection((host, port), timeout)
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/home/vscode/.pyenv/versions/3.8.16/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2023-03-04 11:11:25,809 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'telnet_task' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/telnetpy.py", line 11, in telnet_task
+    output = task.run(task=netmiko_send_command,
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 174, in run
+    raise NornirSubTaskError(task=run_task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: netmiko_send_command (failed)
+
+
+2023-03-04 11:28:20,810 -  nornir.core -     INFO -        run() - Running task 'run_command' with args {} on 1 hosts
+2023-03-04 11:28:20,811 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'napalm_cli' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: napalm_cli() got an unexpected keyword argument 'transport'
+
+2023-03-04 11:28:20,812 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'run_command' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/workspaces/python3-poetry-pyenv/configfile/telnetpy.py", line 61, in run_command
+    result = task.run(task=napalm_cli, commands=[command], transport="telnet")
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 174, in run
+    raise NornirSubTaskError(task=run_task, result=r)
+nornir.core.exceptions.NornirSubTaskError: Subtask: napalm_cli (failed)
+
+

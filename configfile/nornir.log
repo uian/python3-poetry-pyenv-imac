@@ -1,0 +1,14 @@
+2023-02-26 03:04:23,476 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:04:23,477 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+
+2023-02-26 03:05:11,223 -  nornir.core -     INFO -        run() - Running task 'configure_router' with args {'num_workers': 1, 'hosts': ['10.131.129.6']} on 1 hosts
+2023-02-26 03:05:11,224 - nornir.core.task -    ERROR -      start() - Host 'my_device': task 'configure_router' failed with traceback:
+Traceback (most recent call last):
+  File "/workspaces/python3-poetry-pyenv/.venv/lib/python3.8/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+TypeError: configure_router() got an unexpected keyword argument 'num_workers'
+

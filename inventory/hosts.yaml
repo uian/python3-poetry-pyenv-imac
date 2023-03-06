@@ -1,0 +1,11 @@
+---
+my_device:
+  hostname: 10.131.129.6
+  platform: huawei_vrpv8
+  connection_options:
+    netmiko:
+        extras:
+            device_type: huawei_telnet
+            port: 2000
+
+  
