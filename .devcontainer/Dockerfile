@@ -5,6 +5,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 ARG USER=vscode
 
 RUN DEBIAN_FRONTEND=noninteractive \
+    && sed -i 's/http:\/\/deb.debian.org/http:\/\/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.list \
     && apt-get update \ 
     && apt-get install -y build-essential --no-install-recommends make \
         ca-certificates \
@@ -24,6 +25,7 @@ RUN DEBIAN_FRONTEND=noninteractive \
         libxmlsec1-dev \
         libffi-dev \
         liblzma-dev
+
 
 # Python and poetry installation
 USER $USER
