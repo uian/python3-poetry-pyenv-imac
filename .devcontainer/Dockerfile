@@ -27,24 +27,25 @@ RUN DEBIAN_FRONTEND=noninteractive \
         liblzma-dev
 
 
-# # Python and poetry installation
-# USER $USER
-# ARG HOME="/home/$USER"
-# # ARG PYTHON_VERSION=3.8
-# ARG PYTHON_VERSION=3.10
+# Python and poetry installation
+USER $USER
+ARG HOME="/home/$USER"
+# ARG PYTHON_VERSION=3.8
+ARG PYTHON_VERSION=3.10
 
-# ENV PYENV_ROOT="${HOME}/.pyenv"
-# ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${HOME}/.local/bin:$PATH"
+ENV PYENV_ROOT="${HOME}/.pyenv"
+ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${HOME}/.local/bin:$PATH"
 
-# RUN echo "done 0" \
-#     && curl https://pyenv.run | bash \
-#     && echo "done 1" \
-#     && pyenv install ${PYTHON_VERSION} \
-#     && echo "done 2" \
-#     && pyenv global ${PYTHON_VERSION} \
-#     && echo "done 3" \
-#     && curl -sSL https://install.python-poetry.org | python3 - \
-#     && poetry config virtualenvs.in-project true \
-#     && poetry shell \
-#     && poetry install
+RUN echo "done 0" \
+    echo "nameserver 202.195.48.10" > /etc/resolv.conf \
+    && curl https://pyenv.run | bash \
+    && echo "done 1" \
+    && pyenv install ${PYTHON_VERSION} \
+    && echo "done 2" \
+    && pyenv global ${PYTHON_VERSION} \
+    && echo "done 3" \
+    && curl -sSL https://install.python-poetry.org | python3 - \
+    && poetry config virtualenvs.in-project true \
+    && poetry shell \
+    && poetry install
 
