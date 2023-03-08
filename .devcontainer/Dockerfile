@@ -1,6 +1,5 @@
 FROM mcr.microsoft.com/devcontainers/base:buster
 # FROM mcr.microsoft.com/devcontainers/base:jammy 
-RUN   echo "nameserver 202.195.48.10" > /etc/resolv.conf 
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG USER=vscode
