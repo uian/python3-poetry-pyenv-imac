@@ -1,5 +1,6 @@
 FROM mcr.microsoft.com/devcontainers/base:buster
 # FROM mcr.microsoft.com/devcontainers/base:jammy 
+RUN   echo "nameserver 202.195.48.10" > /etc/resolv.conf 
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG USER=vscode
@@ -37,7 +38,7 @@ ENV PYENV_ROOT="${HOME}/.pyenv"
 ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${HOME}/.local/bin:$PATH"
 
 RUN echo "done 0" \
-    echo "nameserver 202.195.48.10" > /etc/resolv.conf \
+
     && curl https://pyenv.run | bash \
     && echo "done 1" \
     && pyenv install ${PYTHON_VERSION} \
