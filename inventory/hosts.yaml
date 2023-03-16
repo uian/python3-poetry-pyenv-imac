@@ -9,3 +9,43 @@ my_device:
             port: 2000
 
   
+al-rtr-1:
+  groups:
+    - routers
+  data:
+    site: alderaan
+    loopback0: 10.230.12.1
+
+en-rtr-1:
+  groups:
+    - routers
+  nornir_username: wicket
+  nornir_password: G0lden_god
+  loopback0: 10.230.12.2
+  nornir_host: 127.0.0.1
+  data:
+    site: endor
+    nornir_username: wicket
+    nornir_password: G0lden_god
+    loopback0: 10.230.12.2
+    nornir_host: 127.0.0.1
+
+
+ta-rtr-1:
+  groups:
+    - routers
+  data:
+    site: tatooine
+    loopback0: 10.230.12.3
+
+ta-sw-1:
+  groups:
+    - switches
+  data:
+    site: tatooine
+
+ta-sw-2:
+  groups:
+    - switches
+  data:
+    site: tatooine

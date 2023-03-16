@@ -4,6 +4,14 @@ inventory:
   options:
     host_file: inventory/hosts.yaml
     group_file: inventory/groups.yaml
+   
+routers:
+  hostname: router.example.com
+  username: admin
+  password: secret
+  platform: cisco_ios
+
+
 
 # logging:
 #   level: DEBUG
